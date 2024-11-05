@@ -117,7 +117,7 @@ The flow is very simillar to synthesizing FPGA image in OpenPiton, but has own n
     $ export SMAPPIC_S3_BUCKET=YOUR_S3_BUCKET
     ```
 
-2. Clone [SMAPPIC repository](https://github.com/PrincetonUniversity/openpiton) and [aws-fpga repository](https://github.com/aws/aws-fpga). 
+2. Clone [OPENPITON repository](https://github.com/PrincetonUniversity/openpiton) and [aws-fpga repository](https://github.com/aws/aws-fpga). 
 
 3. Setup the environment:
     ```
